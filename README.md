@@ -1,6 +1,6 @@
 # 📊 CSV Analyzer Bot para Telegram
 
-![Bot Demo](https://i.imgur.com/placeholder.jpg)
+![Bot Demo](/img/bot.jpg)
 *Bot de análisis de datos para Telegram*
 
 ## 🌟 Descripción
@@ -14,7 +14,7 @@ Bot de Telegram que permite analizar archivos CSV directamente en el chat. Inclu
 
 ```bash
 # 1. Clonar repositorio
-git clone https://github.com/tu-usuario/csv-analyzer-bot.git
+git clone https://github.com/JairVaz13/bot-telegram.git
 cd csv-analyzer-bot
 
 # 2. Instalar dependencias
