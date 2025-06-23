@@ -97,5 +97,3 @@ Si encuentras errores:
 
 ## 📜 Licencia
 MIT License © 2023 [JairVaz13](https://github.com/JairVaz13)
-
-```
